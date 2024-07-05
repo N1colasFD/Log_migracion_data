@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <idSnaphot>244</idSnaphot>
+    <codigoCategoria>1</codigoCategoria>
+    <nombreCategoria>TRAMITES DE PYP</nombreCategoria>
+    <fechaSnapshot>20240416214504</fechaSnapshot>
+    <fecha>2024-04-16 21:04:04</fecha>
+    <tituloPlantilla>log migracion positiva</tituloPlantilla>
+    <nombreTabs>,DATOS RECIBIDOS,,,EJEMPLARES MIGRADOS COMPLETOS,EJEMPLARES MIGRADOS SIN IMAGENES,EJEMPLARES DUPLICADOS MIGRADOS SIN IMAGENES,,ARCHIVOS MIGRADOS COMPLETOS,,ARCHIVOS MIGRADOS HUERFANOS FISICOS,TOTAL NO MIGRADOS,EJEMPLARES RECHAZADOS SITUACION X,,HUERFANOS DE CATALOGO,</nombreTabs>
+  </row>
+</data>

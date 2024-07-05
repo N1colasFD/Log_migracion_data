@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <idSnaphot>198</idSnaphot>
+    <codigoCategoria>5</codigoCategoria>
+    <nombreCategoria>suscripción y expedición polizas de vida grupo, vida individual</nombreCategoria>
+    <fechaSnapshot>20240305144437</fechaSnapshot>
+    <fecha>2024-03-05 14:03:37</fecha>
+    <tituloPlantilla>log migracion positiva</tituloPlantilla>
+    <nombreTabs>,DATOS RECIBIDOS,,,EJEMPLARES MIGRADOS COMPLETOS,EJEMPLARES MIGRADOS SIN IMAGENES,EJEMPLARES DUPLICADOS MIGRADOS SIN IMAGENES,,ARCHIVOS MIGRADOS COMPLETOS,,ARCHIVOS MIGRADOS HUERFANOS FISICOS,TOTAL NO MIGRADOS,EJEMPLARES RECHAZADOS SITUACION X,,HUERFANOS DE CATALOGO,</nombreTabs>
+  </row>
+</data>
