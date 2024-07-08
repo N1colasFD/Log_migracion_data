@@ -1,0 +1,3 @@
+document.getElementById("CarpetassinCUP").innerHTML = `
+<div class="container p-0"><div class="container p-0"><div class="card-toolbar no-border"><div role="button" class="d-style btn btn-lighter-green btn-tp btn-h-brc-tp my-1 text-150 radius-2px border-2 px-2 mr-2"><i class="fa fa-save w-3" onClick="htmlTableToExcel('xlsx','700013105003','tblCarpetassinCUP')"/></div></div></div><div class="card-body p-0"><div class="table-responsive-md"><table class="table table-bordered border-0&#9;table-striped-secondary text-dark-m1 mb-0 text-100" id="tblCarpetassinCUP"><thead><tr class="bgc-green text-white brc-black-tp10"/></thead><tbody/></table></div></div></div>
+`;
